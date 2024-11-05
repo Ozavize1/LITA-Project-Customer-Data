@@ -58,6 +58,3 @@ Where DATEDIFF(month, subscriptionStart, subscriptionEnd) <=6
 
 
 
-
-
-
