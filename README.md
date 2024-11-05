@@ -2,6 +2,14 @@
 
 ### Project Title: Customer Data Analysis
 
+[Project Overview](#project-overview)
+[Data Sources](#data-sources)
+[Tools Used](#tools-used)
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+[Exploratory Data Analysis](#exploratory-data-analysis)
+[Data Analysis](#data-analysis)
+[Data Visualization](#data-visualization)
+
 ### Project Overview
 ---
 This project involves analyzing customer data for a subscription service to identify
@@ -56,6 +64,7 @@ Order by cust_subscription desc
 select* from [dbo].[Customer Data]
 Where DATEDIFF(month, subscriptionStart, subscriptionEnd) <=6
 ```
+
 ![Average Subscription Duration](https://github.com/user-attachments/assets/6964e37d-4094-4453-a6d5-cc8e0e56a0c8)
 ![Customer with subscriptions longer than 12 months](https://github.com/user-attachments/assets/c403b7de-7721-4548-a631-39ce054036c9)
 ![Customers who canceled their subscription within six months](https://github.com/user-attachments/assets/b4f3cb62-5a6b-427a-94fb-b015cdf877f4)
