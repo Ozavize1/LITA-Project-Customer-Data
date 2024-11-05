@@ -37,6 +37,17 @@ This involved the exploration of the data to answer some questions such as;
 - What are the key trends in cancellation and renewal
 - What are the subscription patterns
 
+### Data Analysis
+Here, I included some basic lines of queries used during my analysis
+
+```SQL
+select SubscriptionType, count (CustomerID) as cust_subscription from [dbo].[Customer Data]
+Group By SubscriptionType
+Order by cust_subscription desc
+
+select* from [dbo].[Customer Data]
+Where DATEDIFF(month, subscriptionStart, subscriptionEnd) <=6
+
 
 
 
