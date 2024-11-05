@@ -25,6 +25,19 @@ The primary source of data used here is Customer Data Set uploaded by the Incuba
 
 - GitHub for Portfolio Building
 
+### Data Cleaning and Preparations
+In the initial Phase of the Data cleaning and preparations, I performed the following:
+1. Data loading and Inspection
+2. Handling Missing variables
+3. Data Cleaning and formatting
+
+### Exploratory Data Analysis
+This involved the exploration of the data to answer some questions such as;
+- What are the subscription segments and trends
+- What are the key trends in cancellation and renewal
+- What are the subscription patterns
+
+
 
 
 
