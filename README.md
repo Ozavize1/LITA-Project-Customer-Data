@@ -10,6 +10,22 @@ and identify key trends in cancellations and renewals.
 ### Data Sources
 The primary source of data used here is Customer Data Set uploaded by the Incubator Hub team on our Canvas LMS.
 
+### Tools Used
+- Microsoft Excel [Download Here](https//www.microsoft.com)
+  1. For Data Cleaning
+  2. For Data Analysis
+  3. For Data visualization
+     
+- SQL- Structured Query Language
+  1.  For Data Querying
+  
+- Power BI  
+  1. For Analyzing Data
+  2. For Visualizing Data to generate insights
+
+- GitHub for Portfolio Building
+
+
 
 
 
