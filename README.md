@@ -4,7 +4,7 @@
 
 ### Project Overview
 ---
-This project involves analyzing customer data for a subscription service to identify 
+This project involves analyzing customer data for a subscription service to identify
 segments and trends. Also, to understand customer behavior, track subscription types, 
 and identify key trends in cancellations and renewals.
 
